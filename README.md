@@ -17,21 +17,21 @@ The user with the most ratings, along with their age and user ID, were found usi
 ## Project Screenshots
 - Question 1: Find out the Occupation of all the users
 
-![image](file:///C:/Users/Jack/OneDrive/SECOND%20SEMESTER/5.%20BIG%20DATA%201%20FOR%20BIA/ASSIGNMENT/Assignment1/a1.jpg)
+![image](https://github.com/GiaBaoTranAnalyst/Hive-Zippelin-HDFS-User-Occupation-and-Movies-Ratings-Data-Exploration/assets/132706047/015e4652-a44b-471c-a7b4-66eb15c1c394)
 
 
 
 
 - Question 2: Find out numbers of non-adults (users with ages less than 18) who have rated movies
 
-![image]()
+![image](https://github.com/GiaBaoTranAnalyst/Hive-Zippelin-HDFS-User-Occupation-and-Movies-Ratings-Data-Exploration/assets/132706047/52c1b30b-7f9d-45d7-a5fd-ebca1df6400a)
 
 - Question 3: Find out the count of users by occupation where the user age is more than 25
 
-![image]()
+![image](https://github.com/GiaBaoTranAnalyst/Hive-Zippelin-HDFS-User-Occupation-and-Movies-Ratings-Data-Exploration/assets/132706047/eabf0e97-9629-48b0-b6a7-b1d3a156044c)
 
 
 
 Question 4: Find the user id & age of the user with the most number of ratings 
 
-![image]()
+![image](https://github.com/GiaBaoTranAnalyst/Hive-Zippelin-HDFS-User-Occupation-and-Movies-Ratings-Data-Exploration/assets/132706047/9efd546b-91dd-4b93-a1a6-8422df0f7093)
